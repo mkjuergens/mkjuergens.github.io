@@ -1,4 +1,4 @@
-# mirajuergens.github.io
+# mkjuergens.github.io
 
 Source for personal academic website, live at https://mirajuergens.github.io.
 

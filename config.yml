@@ -1,4 +1,4 @@
-baseURL: "https://mkjuergens.github.io/" 
+baseURL: "https://mkjuergens.github.io/"
 title: Mira Jürgens
 theme: PaperMod
 
@@ -26,7 +26,7 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Mira Juergen's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "Mira Juergens personal website."
     author: Mira Juergens
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"

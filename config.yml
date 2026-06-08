@@ -1,4 +1,4 @@
-baseURL: "https://mirajuergens.github.io/" 
+baseURL: "https://mkjuergens.github.io/" 
 title: Mira Jürgens
 theme: PaperMod
 
@@ -69,7 +69,7 @@ params:
 
     socialIcons:
         # - name: CV
-        #   url: cv.pdf
+        #   url: cv.pdf # to do
         - name: Email
           url: mailto:mira.kjuergens@gmail.com
         - name: Google Scholar
